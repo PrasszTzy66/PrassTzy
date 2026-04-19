@@ -1,5 +1,5 @@
 {
-  "name": "@Aanxientry/baileys",
+  "name": "@PrassTzy/baileys",
   "version": "8.0.1",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,10 +12,10 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/Aanxientry/Baileys",
+  "homepage": "https://github.com/PrassTzy/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Aanxientry/Baileys.git"
+    "url": "git+ssh://git@github.com/PrassTzy/Baileys.git"
   },
   "license": "MIT",
   "author": "Aanxientry",
